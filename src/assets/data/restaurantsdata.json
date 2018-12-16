@@ -1,0 +1,26 @@
+[
+    
+    [
+        {
+            "name":"Special Restaurants",
+            "imgpath":"./src/assets/images/restaurants.jpg"
+        },
+        {
+            "name":"Aero Cafe",
+            "imgpath":"./src/assets/images/aero.jpg"
+        }
+
+    ],
+    [
+        {
+            "name":"Pizzeria",
+            "imgpath":"./src/assets/images/pizzeria.jpg"
+        },
+        {
+            "name":"Lobby Bar",
+            "imgpath":"./src/assets/images/bar.jpg"
+        }
+
+    ]
+
+]
